@@ -53,6 +53,7 @@
 **Phone**
 
 * api/phone
+* api/phone/number{`number`}
 
 
 **Address**
